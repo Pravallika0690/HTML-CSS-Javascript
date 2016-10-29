@@ -19,10 +19,7 @@ p {
   color: white;
 
 }
-div { position: relative; 
-  /*margin-right: 5px; */
-  /*margin-bottom: 5px;*/
-   }
+div { position: relative; }
 div #div1 {background-color: #885599; border: 1px solid black;}
 div #div2 {background-color: #995511; border: 1px solid black;}
 div #div3 {background-color: #889900; border: 1px solid black;}
@@ -47,7 +44,7 @@ div section{margin-top:30px; }
 
 /* Simple Responsive Framework. */
 .row {
-  width: 100%; clear:both;
+  width: 100%;
 }
 
 /********** Large devices only **********/
