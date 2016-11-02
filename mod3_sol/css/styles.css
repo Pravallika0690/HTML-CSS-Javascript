@@ -1,0 +1,39 @@
+#header-nav {
+	background-color: grey;
+	/*color: black;*/
+	border-radius: 0;
+	border:0;
+}
+
+div>a {color:black;}
+.navbar-brand a:hover, .navbar-brand a:focus {
+text-decoration: none;
+color:blue;
+
+}
+li>a {
+	color:black;
+}
+
+#collapsable-nav{
+	border: 1px solid black;
+}
+
+.maincontent {
+	background-color: lightgrey;
+	color: black;
+	
+}
+.navbar-default .navbar-toggle {
+    border-color: black;
+    color:black;
+ }
+ .navbar-default .navbar-nav>li>a {
+    color: black;
+    background-color: cyan;
+    border-bottom: 1px solid black;
+}
+
+.navbar-nav {
+    margin: 0 -15px;
+}
